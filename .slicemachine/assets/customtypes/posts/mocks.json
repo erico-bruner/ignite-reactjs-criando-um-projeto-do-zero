@@ -1,0 +1,40 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "posts",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": "south",
+    "subtitle": "image",
+    "author": "factor",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055"
+    },
+    "content": [
+      {
+        "heading": "hunter",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Quis amet ipsum officia nostrud id officia amet qui officia cupidatat et aute non laboris deserunt.",
+            "spans": []
+          }
+        ]
+      }
+    ],
+    "slices": []
+  }
+}
